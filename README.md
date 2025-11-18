@@ -21,5 +21,5 @@ Pengguna dapat mengakses informasi pengguna, sosial media, WhatsApp, serta memut
 - Android (Build target)
 
 ## 🎮 Demo
-📺 Link video demo: [Demo AR IDCard](https://drive.google.com/file/d/1VVFNRX7nCOE3ZYozx8CA66bzCD1ldSV3/view?usp=sharing)  
-📦 Installer Android APK: [Download APK](https://drive.google.com/file/d/1VVFNRX7nCOE3ZYozx8CA66bzCD1ldSV3/view?usp=sharing)
+📺 Link video demo: [Demo AR IDCard](https://drive.google.com/file/d/1Mdn1lWavjsKXuugA_c-GV3Ifv4-X13Bi/view?usp=sharing)  
+📦 Installer Android APK: [Download APK](https://drive.google.com/file/d/1_PVJSypQDy73A1XU1e87zmOVKpXYSNht/view?usp=sharing)
